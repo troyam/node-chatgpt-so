@@ -1,7 +1,7 @@
 
 # ChatGPT Node.js Integration
 
-Este é um exemplo básico de integração do OpenAI's ChatGPT com Node.js para criar um chatbot.
+Este é um exemplo básico de integração do OpenAI's ChatGPT com Node.js para criar um CLI.
 
 ## Pré-requisitos
 
