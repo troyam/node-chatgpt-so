@@ -1,3 +1,16 @@
+/*
+
+Esse código importa algumas bibliotecas e módulos em um programa JavaScript.
+
+A linha import { ChatGPTAPI, openai } from 'chatgpt' importa duas classes, ChatGPTAPI e openai, de um módulo chamado 'chatgpt'.
+A linha import pkg from 'readline-sync' importa um pacote chamado 'readline-sync' e o armazena na variável pkg.
+A linha import chalk from 'chalk' importa um pacote chamado 'chalk' e o armazena na variável chalk.
+Essas importações permitem o uso das funcionalidades fornecidas pelas bibliotecas e módulos importados no código.
+
+*/
+
+
+
 import {
     ChatGPTAPI
 } from 'chatgpt'
