@@ -1,0 +1,21 @@
+{
+    "name": "chatgpt-api",
+    "version": "1.0.0",
+    "description": "Aula 4 - Criando CLI ChatGPT",
+    "main": "index.js",
+    "scripts": {
+      "start": "node chatgpt.js"
+    },
+    "type": "module",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "chalk": "^5.3.0",
+      "chatgpt": "^5.2.5",
+      "dotenv": "^16.3.1",
+      "openai": "^4.6.0",
+      "readline-sync": "^1.4.10"
+    }
+  }
+  
