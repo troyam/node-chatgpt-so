@@ -17,6 +17,10 @@ import {
 import pkg from 'readline-sync';
 import chalk from 'chalk';
 
+
+/*
+Esse código importa a função readlineSync do pacote pkg e a atribui à constante readlineSync. Em seguida, ele cria um array vazio chamado messages. Por fim, ele cria uma nova instância da classe ChatGPTAPI, passando uma chave de API como parâmetro.
+*/
 const {
     readlineSync
 } = pkg;
